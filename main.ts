@@ -153,6 +153,16 @@ namespace BitKit2 {
         driver.i2cSendBytes(MotorTpye.Wheel, data);
     }
 
+    /**
+     * Stop the motormodule.
+     */
+    //% blockId=motor_stop_run block="Chassis stop"
+    //% weight=99
+    //% group="Chassis"
+    export function stopMotormodule() {
+        setMotormoduleSpeed(0, 0);
+    }
+
     export let linerEventValue = 0;
     const eventIdLiner = 9000;
     let initLiner = false;
