@@ -81,7 +81,7 @@ enum MotionTpye {
  */
 //% weight=48 color=#0063A0 icon="\uf018" block="BitKit"
 //% groups="['Color Line Follower', 'Chassis']"
-namespace BitKit2 {
+namespace BitKit {
 
     /**
      * Set the actions and the moving speed of motormodule YesYEsYES.
