@@ -84,7 +84,7 @@ enum MotionTpye {
 namespace BitKit {
 
     /**
-     * Set the actions and the moving speed of motormodule.
+     * Set the actions and the moving speed of motormodule YesYEsYES.
      * @param direction the direction that want to set.
      * @param speed the speed that want to run.
      */
