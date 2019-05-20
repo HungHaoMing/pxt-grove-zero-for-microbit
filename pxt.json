@@ -1,7 +1,7 @@
 {
     "name": "Grove Zero Bit Kit",
     "version": "1.0.3",
-    "description": "The Grove Zero Bit套件用於micro:Car的擴充積木",
+    "description": "The Grove Zero Bit套件用於micro:Car的擴充積木！",
     "license": "MIT",
     "dependencies": {
         "core": "*"
