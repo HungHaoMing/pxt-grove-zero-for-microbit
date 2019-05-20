@@ -10,7 +10,7 @@
         "README.md",
         "main.ts",
         "driver.ts",
-        "_locales/zh/grove-zero-strings.json"
+        "_locales/zh/BitKit-strings.json"
     ],
     "testFiles": [
         "test.ts"
