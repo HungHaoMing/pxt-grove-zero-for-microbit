@@ -1,7 +1,7 @@
 {
     "name": "Grove Zero Bit Kit",
-    "version": "1.0.0",
-    "description": "The Grove Zero Bit Kit micro:Car extension for micro:bit",
+    "version": "1.0.2",
+    "description": "The Grove Zero Bit套件用於micro:Car的擴充積木",
     "license": "MIT",
     "dependencies": {
         "core": "*"
@@ -10,7 +10,7 @@
         "README.md",
         "main.ts",
         "driver.ts",
-        "_locales/zh-cn/grove-zero-strings.json"
+        "_locales/zh/grove-zero-strings.json"
     ],
     "testFiles": [
         "test.ts"
