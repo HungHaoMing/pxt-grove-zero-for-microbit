@@ -134,16 +134,6 @@ namespace BitKit2 {
     }
 
     /**
-     * Stop the motormodule.
-     */
-    //% blockId=motor_stop_run block="Chassis stop"
-    //% weight=99
-    //% group="Chassis"
-    export function stopMotormodule() {
-        setMotormoduleSpeed(0, 0);
-    }
-
-    /**
      * Set the speed of motors on motormodule.
      * @param left the left speed you want to run.
      * @param right the right speed you want to run.
