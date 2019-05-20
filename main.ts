@@ -81,7 +81,7 @@ enum MotionTpye {
  */
 //% weight=48 color=#0063A0 icon="\uf018" block="BitKit"
 //% groups="['Color Line Follower', 'Chassis']"
-namespace BitKit {
+namespace BitKit2 {
 
     /**
      * Set the actions and the moving speed of motormodule YesYEsYES.
@@ -89,7 +89,7 @@ namespace BitKit {
      * @param speed the speed that want to run.
      */
     //% blockId=motor_set_action block="Chassis go|%direction|at|%speed speed"
-    //% weight=100
+    //% weight=200
     //% group="Chassis"
     export function setMotormoduleAction(direction: DirectionTpye, speed: SpeedTpye) {
         let data: Buffer = pins.createBuffer(5);
