@@ -51,8 +51,8 @@
   "sensor.wasColorTriggered|block": "顏色是|%event",
   "sensor.wasLinePositionTriggered|block": "循線位置是|%event",
   "motor.moveServoTo|block": "馬達舵機轉到|%degree|(度)",
-  "motor.setMotormoduleAction|block": "向|%direction|以|%speed|速運動",
-  "motor.stopMotormodule|block": "停止",
-  "motor.setMotormoduleSpeed|block": "馬達以左速|%left|右速|%right|運動",
+  "BitKit.setMotormoduleAction|block": "向|%direction|以|%speed|速運動",
+  "BitKit.stopMotormodule|block": "停止",
+  "BitKit.setMotormoduleSpeed|block": "馬達以左速|%left|右速|%right|運動",
   "motor.whenMotormoduleLostLine|block": "看不到線時馬達|%motion|以|%speed|速運動"
 }
